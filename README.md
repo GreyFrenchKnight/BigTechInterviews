@@ -20,5 +20,6 @@ Write a query to find out the third-highest mountain name for each country. Plea
 
 ![78-output](/images/78.output.PNG)
 
-![78-code](/sql/78.code.sql)
+[78 Third highest mountains in MX and USA - Code SQL](/sql/78.code.sql)
+
 
